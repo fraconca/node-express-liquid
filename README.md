@@ -2,9 +2,14 @@
 
 Aplicação Node.JS usando Express e Liquid.
 
-### Repositórios
+### ExpressJS
 https://github.com/expressjs/expressjs.com
+
+### LiquidJS
 https://github.com/harttle/liquidjs
+
+### PicoCSS
+https://picocss.com/docs/dropdown
 
 #### Fontes
 Express JS Template Engines
