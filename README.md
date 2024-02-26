@@ -10,7 +10,7 @@ E o estilo mininalista e leve é atribuído pelo PicoCSS.
 
 ## Instalação
 
-Para instalar os pacotes que foram utilizados neste projeto, inicialize este repositório no terminal e instale as dependências via NPM:
+Para instalar os pacotes que foram utilizados neste projeto, clone este repositório, inicialize o repositório usando o Node.JS em seu terminal e instale as dependências via NPM pelo comando de instalação.
 
 ```
 npm install
