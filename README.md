@@ -8,6 +8,15 @@ A linguagem de template LiquidJS é uma simples, expressiva e segura linguagem d
 
 E o estilo mininalista e leve é atribuído pelo PicoCSS. 
 
+## Instalação
+
+Para instalar os pacotes que foram utilizados neste projeto, inicialize este repositório no terminal e instale as dependências via NPM:
+
+```
+npm install
+```
+
+
 
 ## Requisitos
 
