@@ -1,6 +1,5 @@
 const express = require('express');
 const app = express();
-const port = 8080;
 
 
 // importar e instanciar o LiquidJS
@@ -15,9 +14,26 @@ app.set('views', './views');                    // Especifica o diretório das v
 app.set('view engine', 'liquid');               // Configura o Liquid como padrão
 
 
-// Rota inicial
+// Rota '/'
 app.get('/', function (req, res) {
-    res.render('index')
+    res.render('index');
+});
+
+
+// Rota '/sobre'
+app.get('/sobre', function (req, res) {
+
+    const tecnologias = ['ReactJS', 'ExpressJS', 'LiquidJS'];
+
+    const dia = new Date();
+    let ano = dia.getFullYear();
+
+    res.render('sobre', {
+      projeto: tecnologias,
+      title: 'Boas vindas ao LiquidJS!',
+      esteAno: ano
+    });
+
 });
 
 
