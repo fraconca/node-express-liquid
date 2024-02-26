@@ -12,23 +12,22 @@ E o estilo mininalista e leve é atribuído pelo PicoCSS.
 ## Requisitos
 
 
-#### ExpressJS
-https://github.com/expressjs/expressjs.com
+#### [ExpressJS](https://github.com/expressjs/expressjs.com)
+
 ```
 npm install express --save
 ```
 
 
-#### LiquidJS
+#### [LiquidJS](https://github.com/harttle/liquidjs)
 
 ```
 npm install liquidjs
 ```
-https://github.com/harttle/liquidjs
 
 
-#### PicoCSS
-https://picocss.com/docs/dropdown
+#### [PicoCSS](https://picocss.com/docs/dropdown)
+
 ```
 npm install @picocss/pico
 ```
@@ -37,5 +36,5 @@ npm install @picocss/pico
 ##### Fontes
 
 Express JS Template Engines
-https://expressjs.com/en/resources/template-engines.html
-https://blog.logrocket.com/top-express-js-template-engines-for-dynamic-html-pages/
+[Express](https://expressjs.com/en/resources/template-engines.html)
+[Log Rocket](https://blog.logrocket.com/top-express-js-template-engines-for-dynamic-html-pages/)
