@@ -1,0 +1,17 @@
+{
+  "name": "express-liquid",
+  "version": "1.0.0",
+  "description": "Neste projeto, vamos usar o gerenciador das diferentes requisições HTTP com seus mais diversos verbos e utilizaremos Liquid como linguagem de template e PicoCSS para estilo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@picocss/pico": "^2.0.3",
+    "express": "^4.18.2",
+    "liquidjs": "^10.10.1"
+  }
+}

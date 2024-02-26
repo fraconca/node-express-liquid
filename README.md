@@ -22,14 +22,14 @@ npm install express --save
 #### [LiquidJS](https://github.com/harttle/liquidjs)
 
 ```
-npm install liquidjs
+npm install liquidjs --save
 ```
 
 
 #### [PicoCSS](https://picocss.com/docs/dropdown)
 
 ```
-npm install @picocss/pico
+npm install @picocss/pico --save
 ```
 
 
