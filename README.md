@@ -36,7 +36,8 @@ npm install @picocss/pico --save
 ##### Fontes
 
 - [Express](https://expressjs.com/en/resources/template-engines.html)
-- [LiquidJS](https://liquidjs.com/tutorials/setup.html)
+- [LiquidJS - Setup](https://liquidjs.com/tutorials/setup.html)
+- [LiquidJS - Use in Express](https://liquidjs.com/tutorials/use-in-expressjs.html)
 - [Log Rocket](https://blog.logrocket.com/top-express-js-template-engines-for-dynamic-html-pages/)
 - [Tutorials Teacher](https://www.tutorialsteacher.com/nodejs/template-engines-for-nodejs)
 - [Java Point](https://www.javatpoint.com/expressjs-template)
