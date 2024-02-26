@@ -35,6 +35,5 @@ npm install @picocss/pico
 
 ##### Fontes
 
-Express JS Template Engines
-[Express](https://expressjs.com/en/resources/template-engines.html)
-[Log Rocket](https://blog.logrocket.com/top-express-js-template-engines-for-dynamic-html-pages/)
+- [Express](https://expressjs.com/en/resources/template-engines.html)
+- [Log Rocket](https://blog.logrocket.com/top-express-js-template-engines-for-dynamic-html-pages/)
