@@ -9,28 +9,32 @@ A linguagem de template LiquidJS é uma simples, expressiva e segura linguagem d
 E o estilo mininalista e leve é atribuído pelo PicoCSS. 
 
 
-##Requisitos
+## Requisitos
 
 
-###ExpressJS
+#### ExpressJS
 https://github.com/expressjs/expressjs.com
 ```
 npm install express --save
 ```
 
-###LiquidJS
+
+#### LiquidJS
 
 ```
 npm install liquidjs
 ```
 https://github.com/harttle/liquidjs
 
-###PicoCSS
+
+#### PicoCSS
 https://picocss.com/docs/dropdown
 ```
 npm install @picocss/pico
 ```
 
-####Fontes
+
+##### Fontes
+
 Express JS Template Engines
 https://expressjs.com/en/resources/template-engines.html
