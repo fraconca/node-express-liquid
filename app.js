@@ -2,9 +2,11 @@ const express = require('express');
 const app = express();
 const port = 8080;
 
+
 // importar e instanciar o LiquidJS
 var { Liquid } = require('liquidjs');
 var engine = new Liquid();
+
 
 // Registrar Template Engine LiquidJS
 app.engine('liquid', engine.express());         // Registrar Engine Liquid
@@ -13,6 +15,7 @@ app.set('views', './views');                    // Especifica o diretório das v
 app.set('view engine', 'liquid');               // Configura o Liquid como padrão
 
 
+// Rota inicial
 app.get('/', function (req, res) {
     res.render('index')
 });
